@@ -16,5 +16,6 @@ module.exports = {
         "revert",
       ],
     ],
+    "scope-enum": [2, "always", ["release", "model", "api", "ui"]],
   },
 };
