@@ -2,13 +2,14 @@
   "types": [
     { "type": "feat", "section": "Features" },
     { "type": "fix", "section": "Bug Fixes" },
+    { "type": "improvement", "hidden": true },
     { "type": "chore", "hidden": true },
     { "type": "docs", "hidden": true },
-    { "type": "style", "hidden": true },
     { "type": "refactor", "hidden": true },
-    { "type": "perf", "hidden": true },
-    { "type": "test", "hidden": true }
+    { "type": "style", "hidden": true },
+    { "type": "test", "hidden": true },
+    { "type": "revert", "hidden": true }
   ],
-  "commitUrlFormat": "https://github.com/mokkapps/changelog-generator-demo/commits/{{hash}}",
-  "compareUrlFormat": "https://github.com/mokkapps/changelog-generator-demo/compare/{{previousTag}}...{{currentTag}}"
+  "commitUrlFormat": "https://github.com/bgord/cct/commits/{{hash}}",
+  "compareUrlFormat": "https://github.com/bgord/cct/compare/{{previousTag}}...{{currentTag}}"
 }
