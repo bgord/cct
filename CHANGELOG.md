@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/mokkapps/changelog-generator-demo/compare/v1.0.0...v1.1.0) (2020-12-06)
+
+
+### Features
+
+* add standard-version to make releases 4811a2b
+
 ## 1.0.0 (2020-12-06)
 
 
