@@ -7,7 +7,7 @@ module.exports = {
       [
         "feat",
         "fix",
-        "improvement",
+        "imprv",
         "chore",
         "docs",
         "refactor",
